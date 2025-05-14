@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkkhaki;
+}
+
+h1{
+    font-size: 4em;
+ color: beige;
+ text-align: center;
+}   
+h2 {
+    font-size: 2em;
+    color: grey;
+    text-align: lef;}
+
+#post-1 { 
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 5px solid #ccc;
+} 
+
+#post-2 { 
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 5px solid #ccc;
+} 
+
+#post-3 { 
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 5px solid #ccc;
+} 
+
+#post-4 { 
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 5px solid #ccc;
+} 
+
